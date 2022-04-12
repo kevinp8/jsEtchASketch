@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+section {
+    display: flex;
+    width: 960px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+div {
+    border: 1px solid lightgray;
+    width: 60px;
+    height: 60px;
+}
